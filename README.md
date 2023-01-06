@@ -1,4 +1,4 @@
-Random Quote
+#Random Quote
 
 It shows you a quote every day
 
