@@ -1,4 +1,4 @@
-# Dayn-Calendar---js
+Random Quote
 
 It shows you a quote every day
 
